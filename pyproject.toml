@@ -1,0 +1,12 @@
+[project]
+name = "quantum-neutral-atoms"
+version = "1.0.0"
+description = "Quantum Neutral Atoms Research Library"
+authors = [
+    { name = "Dr. Boris Milanovic", email = "dr.milanovic@proton.me" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "qadence>=1.11.5",
+]
