@@ -8,5 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "qadence>=1.11.5",
+    "ipykernel>=7.2.0",
+    "pasqal-cloud>=0.22.0",
+    "qadence[visualization]>=1.11.5",
+    "sympy>=1.13.3",
+    "torch>=2.12.0",
 ]
