@@ -139,7 +139,7 @@ explanation with runnable code blocks.
 Background material in [`docs/`](docs/):
 
 - [`pasqal-neutral-atom-master-reference.md`](docs/pasqal-neutral-atom-master-reference.md) — master reference on Pasqal's neutral-atom platform and toolchain.
-- [`pasqal-plan.md`](docs/pasqal-plan.md) — project plan and roadmap.
+- [`pasqal-plan.md`](personal/pasqal-plan.md) — project plan and roadmap.
 - [`neutral-atom-qc-key-publications.md`](docs/neutral-atom-qc-key-publications.md) — annotated key publications.
 - [`neutral-atom-qc-timeline.md`](docs/neutral-atom-qc-timeline.md) — milestone timeline for the field.
 - [`Neutral-Atom-vs-Ion-vs-Superconducting-Comparison.md`](docs/Neutral-Atom-vs-Ion-vs-Superconducting-Comparison.md) — comparison of the leading qubit modalities.
