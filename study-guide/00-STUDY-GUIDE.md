@@ -88,7 +88,7 @@ print("mean:", x.mean().item())
 
 ## Progress tracker
 
-- [ ] Lesson 01 — Tensors & autograd
+- [X] Lesson 01 — Tensors & autograd
 - [ ] Lesson 02 — Feature maps & kernels
 - [ ] Lesson 03 — Kernel ridge & SVM
 - [ ] Lesson 04 — Graph data & graph kernels

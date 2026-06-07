@@ -2,6 +2,7 @@
 .idea/
 .vscode/
 .claude/
+uv.lock
 *.swp
 *.swo
 *.DS_Store
